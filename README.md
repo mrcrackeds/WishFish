@@ -11,7 +11,7 @@ $ apt install wget
 
 $ apt install openssh
 
-$ git clone https://github.com/kinghacker0/WishFish
+$ git clone https://github.com/icammaci/WishFish
 
 <h3>Usage</h3>
 
